@@ -1,0 +1,16 @@
+sudo apt-get install build-essential python-dev python-pip python-imaging
+
+pip install numpy
+pip install matplotlib
+pip install image
+
+
+Run using python3.7:
+python3.7 Image_Enumarator.py
+
+What needs to be implemented:
+
+Info
+X-Y coordinate system
+Point positioning(Vertical and horizontal)
+Point position using a file with position at various coordinates
