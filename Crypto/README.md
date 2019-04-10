@@ -9,4 +9,6 @@ base64.b32decode("string")
 
 ### Rot13
 
-### Base64
+### Base64 decode <py>
+import base64
+base64.b64decode("string")

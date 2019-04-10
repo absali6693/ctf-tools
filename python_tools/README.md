@@ -17,3 +17,11 @@ hex(int("binary", 2))
 "hex_string".decode('hex') `remove 0x from the hex string`
 
 To remove 0x use "hex_string"[2:]
+
+### base32 decode
+import base64
+base64.b32decode("string")
+
+### base64 decode
+import base64
+base64.b64decode("string")
