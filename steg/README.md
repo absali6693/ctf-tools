@@ -19,6 +19,9 @@ detect stegano-hidden data in PNG & BMP
 ### steghide
 detect stegano-hidden data in JPG
 
+### jstego
+Looks for files or data inside JPEG
+
 ### If binwalk unable to extact zip from image use
 | binwalk --dd=".*" filename
 
@@ -32,7 +35,8 @@ play the audio
 website
 
 ### Sonic Visualizer
-App
+App | add layers etc
+https://www.youtube.com/watch?v=gxHY43274l4
 
 ###  exiftool
 Get meta data
